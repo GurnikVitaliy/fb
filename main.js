@@ -19,3 +19,5 @@ function data() {
 }
 
 document.getElementById('btn').onclick = data;
+const ip = document.querySelector('.ip');
+ip.innerHTML = window.origin;
