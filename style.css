@@ -100,7 +100,11 @@ img { width: 50px; }
       width: 700px;
    }
 } */
-
+.ip {
+   background-color: black;
+   color: #fff;
+   padding: 20px;
+}
 .f {
    width: 112px;
 }
